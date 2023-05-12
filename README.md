@@ -2,4 +2,4 @@ Finantial Chat Demo
 
 
 
-  :::  https://36b13ac45a0513ddda.gradio.live/
+  :::  https://fa702049a63393b3e2.gradio.live
