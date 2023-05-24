@@ -1,4 +1,4 @@
-Finantial Chat Demo 
+Financial Chat Demo 
 
 
 
