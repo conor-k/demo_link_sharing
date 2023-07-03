@@ -1,3 +1,3 @@
 # 소상공인 지원 챗봇
 
-Demo link :: https://a9c0a3ecdb5f2280d1.gradio.live/
+Demo link :: https://58eec2e9243f76280d.gradio.live/
